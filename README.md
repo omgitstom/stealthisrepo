@@ -3,6 +3,6 @@ A repository of free information to help you as a product manager, leader, or de
 
 ## Contents
 
-+ Fact Pack -> Are you joining a new company?  Hit the ground running by answering core questions to hone your understanding.
++ Fact Pack [factpack.md](https://github.com/omgitstom/stealthisrepo/blob/main/factpack.md) -> Are you joining a new company?  Hit the ground running by answering core questions to hone your understanding.
 + Feature / Product Launch Plans -> coming soon
 + Interview Kits ->  coming soon
