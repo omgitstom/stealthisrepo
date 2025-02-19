@@ -1,6 +1,6 @@
 **SaaS Fact Pack**
 
-This fact pack is a comprehensive reference for understanding a company’s market positioning, business, strategy, and operational insights. It can be customized for any SaaS across different industries.
+This fact pack is a comprehensive reference for understanding a company’s market positioning, business, strategy, and operational insights. It aims to help you achieve knowledge so you can make informed decisions as a Product Manager or Product Manager Leader. It can be customized for any SaaS across different industries.
 
 ## Market Overview
 
@@ -50,8 +50,9 @@ This fact pack is a comprehensive reference for understanding a company’s mark
 - What is the company’s mission and vision?
 - Is this vision expected to evolve over the next decade?
 - What factors could make the company’s offerings obsolete or less relevant?
-- What are the short-term (1-2 year) strategic priorities?
-- What is the annual operating plan?
+- What are the short-term (1-year) strategic priorities?
+- What are the long-term (2-5 year) strategic priorities?
+- What is the annual plan? What strategic projects are in motion to achieve priorities?
 - Is the company executing its strategy effectively? Are there gaps or misalignments?
 
 ### Historical Strategy Review
@@ -72,7 +73,7 @@ This fact pack is a comprehensive reference for understanding a company’s mark
 - Who are the major competitors?
 - What are their key offerings, pricing models, and go-to-market strategies?
 - What are their strengths and weaknesses compared to our company?
-- How do prominent industry leaders approach this market?
+- How do prominent industry leaders approach this market if operating in a red ocean?
 
 ## Business Health
 
@@ -84,8 +85,9 @@ This fact pack is a comprehensive reference for understanding a company’s mark
 - What are the primary revenue drivers?
 - What are the profitability drivers?
 - What are the most significant risks to achieving business objectives?
-- How does revenue distribution vary by geography and customer segment?
+- How does revenue distribution vary by customer segment?
 - What are the growth trends across different customer segments?
+- What SaaS metrics is the company focused on?  What do we need to improve?
 
 ## Goal Setting & Performance Management
 
@@ -94,11 +96,10 @@ This fact pack is a comprehensive reference for understanding a company’s mark
 *Measuring performance ensures accountability and aligns efforts toward business objectives.*
 
 - How are corporate performance and business objectives evaluated?
-- How are goals set, and what happens if they are not met?
-
+- How are goals set, and what happens if they are unmet?
 - How are individual and team performances assessed?
 - What metrics are used for team or individual evaluation?
-- How do performance metrics align with corporate goals?
+- How do performance metrics align with company goals?
 
 ## Product & Technology
 
@@ -109,8 +110,9 @@ This fact pack is a comprehensive reference for understanding a company’s mark
 - What are the current priorities for product development?
 - What major product updates have been released recently?
 - What is the company’s roadmap for future product innovations?
+- How is product development aligned with company strategy?
 - Are there great product ideas that have not yet been implemented? Why?
-- What are the major historical product decisions and pivots?
+- Were there any major historical product decisions and pivots?
 
 ### Technical Overview
 
@@ -140,7 +142,7 @@ This fact pack is a comprehensive reference for understanding a company’s mark
   - Process
 - How are customer personas defined and used?
 - How does the company communicate and launch new features?
-- How does the company measure the success of feature and product launches?
+- How does the company measure the success of feature and product launches (adoption)?
 
 ## Pricing & Positioning
 
@@ -159,7 +161,7 @@ This fact pack is a comprehensive reference for understanding a company’s mark
 - Who are the top customers, and what percentage of revenue do they generate?
 - What are their primary needs and feedback?
 - Who are the company’s top prospects and lost opportunities?
-- What customer segments drive the most revenue growth?
+- Are existing customers expanding?  What is driving expansion in each customer segment?
 - What are the most critical product requests from each segment?
 - How does the company engage and communicate with customers?
 
@@ -195,13 +197,13 @@ This fact pack is a comprehensive reference for understanding a company’s mark
 - What post-implementation support is provided?
 - How do customers access support and documentation?
 - What training and educational resources are available?
-- What is the segment's current customer sentiment (NPS/CSAT/etc)?
+- What is each customer segment's sentiment (NPS/CSAT/etc)?
 
 ## Organizational Structure
 
 ### Company Organization
 
-*A clear organizational structure facilitates efficiency and communication.*
+*Understanding organizational structure facilitates efficiency and communication. Finding and building key relationships allows you to work cross-functionally*
 
 - How is the organization structured?
 - What are the different departments and their roles?
